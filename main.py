@@ -1,6 +1,6 @@
 #Leonardo Zaniboni Silva 11801049
 import pytest      
-
+ 
 #Definindo a função fibonacci
 def fibonacci(x):
     if x<3:
